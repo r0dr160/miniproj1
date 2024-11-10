@@ -13,10 +13,14 @@
     <!-- Rodapé com Ícones de Redes Sociais -->
     <footer>
       <a href="https://facebook.com" target="_blank"><span class="material-icons">facebook</span></a>
-      <a href="hhttps://github.com/r0dr160/miniproj1" target="_blank"><span class="material-icons">code</span></a> <!-- GitHub não possui ícone específico no Material-->
+      <a href="https://github.com/r0dr160/miniproj1" target="_blank"><span class="material-icons">code</span></a>
       <a href="https://www.linkedin.com/in/rodrigoc-costa/" target="_blank"><span class="material-icons">business_center</span></a>
-      <a href="https://x.com" target="_blank"><span class="material-icons">alternate_email</span></a> <!-- Representa Twitter/X -->
+      <a href="https://x.com" target="_blank"><span class="material-icons">alternate_email</span></a>
       <a href="https://api.whatsapp.com/send?phone=351912827482&text=Ol%C3%A1%2C%20meu%20amigo!" target="_blank"><span class="material-icons">chat</span></a>
+      <!-- Link para o protótipo Figma -->
+      <a href="https://www.figma.com/design/9xiOeb3lFPE8bEKkAlyFRr/Miniprojeto%3A-Single-Page-Application-(SPA)?node-id=0-1&t=dYO3T0Amin5l0Izo-1" target="_blank">
+        <span class="material-icons">preview</span>
+      </a>
     </footer>
   </div>
 </template>
