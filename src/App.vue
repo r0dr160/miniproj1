@@ -13,10 +13,10 @@
     <!-- Rodapé com Ícones de Redes Sociais -->
     <footer>
       <a href="https://facebook.com" target="_blank"><span class="material-icons">facebook</span></a>
-      <a href="https://github.com" target="_blank"><span class="material-icons">code</span></a> <!-- GitHub não possui ícone específico no Material-->
+      <a href="hhttps://github.com/r0dr160/miniproj1" target="_blank"><span class="material-icons">code</span></a> <!-- GitHub não possui ícone específico no Material-->
       <a href="https://www.linkedin.com/in/rodrigoc-costa/" target="_blank"><span class="material-icons">business_center</span></a>
       <a href="https://x.com" target="_blank"><span class="material-icons">alternate_email</span></a> <!-- Representa Twitter/X -->
-      <a href="https://whatsapp.com" target="_blank"><span class="material-icons">chat</span></a>
+      <a href="https://api.whatsapp.com/send?phone=351912827482&text=Ol%C3%A1%2C%20meu%20amigo!" target="_blank"><span class="material-icons">chat</span></a>
     </footer>
   </div>
 </template>
